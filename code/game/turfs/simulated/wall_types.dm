@@ -121,33 +121,33 @@
 	name = "Sandstone Wall"
 	desc = "A type of wall built from standstone, to defend from your enemies."
 	icon_state = "egyptian0"
-	walltype = "Standstone"
-	mineral = "Standstone"
+	walltype = "egyptian"
+	mineral = "sandstonenew"
 
-/turf/simulated/wall/stonebrick
+/turf/simulated/wall/stonefortress
 	name = "Stone Brick"
 	desc = "A type of wall that is built from stone & brick, a proper sturdy wall of keeping those enemies out."
 	icon_state = "new_stonebrick0"
-	walltype = "Stonebrick"
+	walltype = "Stonebricks"
 	mineral = "Stonebrick"
 
-/turf/simulated/wall/brickwall
+/turf/simulated/wall/stonebrickwall
 	name = "Brick Wall"
 	desc = "A type of wall that is built from straight brick, this tough stable wall, can sustain anything."
 	icon_state = "fortress_brickwall0"
-	walltype = "Brick"
+	walltype = "fortress_brickwall"
 	mineral = "Brick"
 
 /turf/simulated/wall/sandfortress
 	name = "Sandstone Fortress Wall"
 	desc = "A type of wall that is built for your fortress, this bad boy, can force any of your enemies offense to an end."
 	icon_state = "standstone_fortress0"
-	walltype = "Sandstone"
+	walltype = "standstone_fortress"
 	mineral = "Sandstone"
 
-/turf/simulated/wall/stone
+/turf/simulated/wall/redstone
 	name = "Sandstone Block Wall"
 	desc = "A type of wall that is built for your camp or simple area, this wall, can hold down a small force of enemies."
 	icon_state = "redsandstone_block_wall0"
-	walltype = "Sandstone"
+	walltype = "redsandstone_block_wall"
 	mineral = "Sandstone"
