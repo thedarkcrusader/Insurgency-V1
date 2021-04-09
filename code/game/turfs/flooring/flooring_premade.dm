@@ -90,6 +90,12 @@
 	icon_state = "wood"
 	initial_flooring = /decl/flooring/wood
 
+/turf/simulated/floor/road
+	name = "Concrete road"
+	icon = 'icons/turf/flooring/tiles.dmi'
+	icon_state = "road"
+	initial_flooring = /decl/flooring/road
+
 /turf/simulated/floor/grass
 	name = "grass patch"
 	icon = 'icons/turf/flooring/grass.dmi'

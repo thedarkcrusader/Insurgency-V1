@@ -173,6 +173,19 @@ var/list/flooring_types
 	apply_heat_capacity = 325000
 	can_paint = 1
 
+
+
+/decl/flooring/road
+	name = "Concrete road"
+	desc = "An heavy concrete road."
+	icon = 'icons/turf/flooring/tiles.dmi'
+	icon_base = "road"
+	flags = TURF_REMOVE_WRENCH | TURF_ACID_IMMUNE
+	apply_thermal_conductivity = 0.025
+	apply_heat_capacity = 325000
+	can_paint = 1
+
+
 /decl/flooring/reinforced/circuit
 	name = "processing strata"
 	icon = 'icons/turf/flooring/circuit.dmi'
