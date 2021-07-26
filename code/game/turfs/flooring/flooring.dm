@@ -173,7 +173,7 @@ var/list/flooring_types
 	apply_heat_capacity = 325000
 	can_paint = 1
 
-
+// the start of my new floors this is shit code i know theres a better way to do it -Jones-
 
 /decl/flooring/road
 	name = "Concrete road"
@@ -185,6 +185,117 @@ var/list/flooring_types
 	apply_heat_capacity = 325000
 	can_paint = 1
 
+/decl/flooring/sandstone_tile
+	name = "Sandstone floor"
+	desc = "some heavy sandstone flooring."
+	icon = 'icons/turf/flooring/tiles.dmi'
+	icon_base = "sandstone_tile"
+	flags = TURF_REMOVE_WRENCH | TURF_ACID_IMMUNE
+	apply_thermal_conductivity = 0.025
+	apply_heat_capacity = 325000
+	can_paint = 1
+
+/decl/flooring/sandstone_flooring
+	name = "Sandstone floor"
+	desc = "some heavy sandstone flooring."
+	icon = 'icons/turf/flooring/tiles.dmi'
+	icon_base = "sandstone_floor"
+	flags = TURF_REMOVE_WRENCH | TURF_ACID_IMMUNE
+	apply_thermal_conductivity = 0.025
+	apply_heat_capacity = 325000
+	can_paint = 1
+
+/decl/flooring/sandstone_slab
+	name = "Sandstone floor"
+	desc = "some heavy sandstone flooring."
+	icon = 'icons/turf/flooring/tiles.dmi'
+	icon_base = "sandstone_slab"
+	flags = TURF_REMOVE_WRENCH | TURF_ACID_IMMUNE
+	apply_thermal_conductivity = 0.025
+	apply_heat_capacity = 325000
+	can_paint = 1
+
+/decl/flooring/sandstone_brick
+	name = "Sandstone floor"
+	desc = "some heavy sandstone flooring."
+	icon = 'icons/turf/flooring/tiles.dmi'
+	icon_base = "sandstone_brick"
+	flags = TURF_REMOVE_WRENCH | TURF_ACID_IMMUNE
+	apply_thermal_conductivity = 0.025
+	apply_heat_capacity = 325000
+	can_paint = 1
+
+/decl/flooring/sandstone_redstonetile
+	name = "Red andstone floor"
+	desc = "some heavy sandstone flooring."
+	icon = 'icons/turf/flooring/tiles.dmi'
+	icon_base = "sandstone_redstonetile"
+	flags = TURF_REMOVE_WRENCH | TURF_ACID_IMMUNE
+	apply_thermal_conductivity = 0.025
+	apply_heat_capacity = 325000
+	can_paint = 1
+
+
+
+decl/flooring/newgrass
+	name = "Grass"
+	desc = "Soft grass."
+	icon = 'icons/turf/flooring/tiles.dmi'
+	icon_base = "grass1"
+	flags = TURF_REMOVE_WRENCH | TURF_ACID_IMMUNE
+	apply_thermal_conductivity = 0.025
+	apply_heat_capacity = 325000
+	can_paint = 1
+
+/decl/flooring/wood_floor
+	name = "Wooden  floor"
+	desc = "some wooden flooring."
+	icon = 'icons/turf/flooring/tiles.dmi'
+	icon_base = "wood_floor"
+	flags = TURF_REMOVE_WRENCH | TURF_ACID_IMMUNE
+	apply_thermal_conductivity = 0.025
+	apply_heat_capacity = 325000
+	can_paint = 1
+
+decl/flooring/newgrass
+	name = "Grass"
+	desc = "Soft grass."
+	icon = 'icons/turf/flooring/tiles.dmi'
+	icon_base = "grass1"
+	flags = TURF_REMOVE_WRENCH | TURF_ACID_IMMUNE
+	apply_thermal_conductivity = 0.025
+	apply_heat_capacity = 325000
+	can_paint = 1
+
+decl/flooring/newgrassx
+	name = "Grass"
+	desc = "Soft grass."
+	icon = 'icons/turf/flooring/tiles.dmi'
+	icon_base = "grass2"
+	flags = TURF_REMOVE_WRENCH | TURF_ACID_IMMUNE
+	apply_thermal_conductivity = 0.025
+	apply_heat_capacity = 325000
+	can_paint = 1
+
+decl/flooring/newgrassy
+	name = "Grass"
+	desc = "Soft grass."
+	icon = 'icons/turf/flooring/tiles.dmi'
+	icon_base = "grass3"
+	flags = TURF_REMOVE_WRENCH | TURF_ACID_IMMUNE
+	apply_thermal_conductivity = 0.025
+	apply_heat_capacity = 325000
+	can_paint = 1
+
+decl/flooring/newgrassz
+	name = "Grass"
+	desc = "Soft grass."
+	icon = 'icons/turf/flooring/tiles.dmi'
+	icon_base = "grass4"
+	flags = TURF_REMOVE_WRENCH | TURF_ACID_IMMUNE
+	apply_thermal_conductivity = 0.025
+	apply_heat_capacity = 325000
+	can_paint = 1
 
 /decl/flooring/reinforced/circuit
 	name = "processing strata"

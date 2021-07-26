@@ -96,6 +96,91 @@
 	icon_state = "road"
 	initial_flooring = /decl/flooring/road
 
+/turf/simulated/floor/sandstone_flooring
+	name = "Sandstone flooring"
+	icon = 'icons/turf/flooring/tiles.dmi'
+	icon_state = "sandstone_floor"
+	initial_flooring = /decl/flooring/sandstone_flooring
+
+
+/turf/simulated/floor/sandstone_slab
+	name = "Sandstone flooring"
+	icon = 'icons/turf/flooring/tiles.dmi'
+	icon_state = "sandstone_slab"
+	initial_flooring = /decl/flooring/sandstone_slab
+
+/turf/simulated/floor/sandstone_brick
+	name = "Sandstone flooring"
+	icon = 'icons/turf/flooring/tiles.dmi'
+	icon_state = "sandstone_floor"
+	initial_flooring = /decl/flooring/sandstone_brick
+
+/turf/simulated/floor/sandstone_redstonetile
+	name = "Sandstone flooring"
+	icon = 'icons/turf/flooring/tiles.dmi'
+	icon_state = "sandstone_redstonetile"
+	initial_flooring = /decl/flooring/sandstone_redstonetile
+
+	/turf/simulated/floor/sandstone_tile
+	name = "Sandstone flooring"
+	icon = 'icons/turf/flooring/tiles.dmi'
+	icon_state = "sandstone_tile"
+	initial_flooring = /decl/flooring/sandstone_tile
+
+
+	/turf/simulated/floor/newgrass
+	name = "Grass flooring"
+	icon = 'icons/turf/flooring/tiles.dmi'
+	icon_state = "grass1"
+	initial_flooring = /decl/flooring/newgrass
+
+	/turf/simulated/floor/newgrassx
+	name = "Grass flooring"
+	icon = 'icons/turf/flooring/tiles.dmi'
+	icon_state = "grass2"
+	initial_flooring = /decl/flooring/newgrassx
+
+	/turf/simulated/floor/newgrassy
+	name = "Grass flooring"
+	icon = 'icons/turf/flooring/tiles.dmi'
+	icon_state = "grass3"
+	initial_flooring = /decl/flooring/newgrassy
+
+	/turf/simulated/floor/newgrassz
+	name = "Grass flooring"
+	icon = 'icons/turf/flooring/tiles.dmi'
+	icon_state = "grass4"
+	initial_flooring = /decl/flooring//newgrassz
+
+
+/turf/simulated/floor/wood_floor
+	name = "Wooden flooring"
+	icon = 'icons/turf/flooring/tiles.dmi'
+	icon_state = "wood_floor"
+	initial_flooring = /decl/flooring/wood_floor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /turf/simulated/floor/grass
 	name = "grass patch"
 	icon = 'icons/turf/flooring/grass.dmi'

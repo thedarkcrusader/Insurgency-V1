@@ -141,8 +141,8 @@
 /turf/simulated/wall/sandfortress
 	name = "Sandstone Fortress Wall"
 	desc = "A type of wall that is built for your fortress, this bad boy, can force any of your enemies offense to an end."
-	icon_state = "standstone_fortress0"
-	walltype = "standstone_fortress"
+	icon_state = "sandstone_fortress0"
+	walltype = "sandstone_fortress"
 	mineral = "Sandstone"
 
 /turf/simulated/wall/redstone
