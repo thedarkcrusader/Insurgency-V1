@@ -128,6 +128,29 @@
 	initial_flooring = /decl/flooring/sandstone_tile
 
 
+/turf/simulated/floor/dark_sand_stone
+	name = "Dark Sandstone flooring"
+	icon = 'icons/turf/flooring/tiles.dmi'
+	icon_state = "dark_sand_stone"
+	initial_flooring = /decl/flooring/dark_sand_stone
+
+/turf/simulated/floor/darker_sand_stone
+	name = "Darker Sandstone flooring"
+	icon = 'icons/turf/flooring/tiles.dmi'
+	icon_state = "darker_sand_stone"
+	initial_flooring = /decl/flooring/darker_sand_stone
+
+/turf/simulated/floor/pavement
+	name = "Stone pavement"
+	icon = 'icons/turf/flooring/tiles.dmi'
+	icon_state = "pavement"
+	initial_flooring = /decl/flooring/pavement
+
+
+
+
+
+
 	/turf/simulated/floor/newgrass
 	name = "Grass flooring"
 	icon = 'icons/turf/flooring/tiles.dmi'

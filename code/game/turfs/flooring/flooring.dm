@@ -235,6 +235,36 @@ var/list/flooring_types
 	apply_heat_capacity = 325000
 	can_paint = 1
 
+/decl/flooring/dark_sand_stone
+	name = "Dark sandstone floor"
+	desc = "some heavy sandstone flooring."
+	icon = 'icons/turf/flooring/tiles.dmi'
+	icon_base = "dark_sand_stone"
+	flags = TURF_REMOVE_WRENCH | TURF_ACID_IMMUNE
+	apply_thermal_conductivity = 0.025
+	apply_heat_capacity = 325000
+	can_paint = 1
+
+/decl/flooring/darker_sand_stone
+	name = "Dark sandstone floor"
+	desc = "some heavy sandstone flooring."
+	icon = 'icons/turf/flooring/tiles.dmi'
+	icon_base = "darker_sand_stonee"
+	flags = TURF_REMOVE_WRENCH | TURF_ACID_IMMUNE
+	apply_thermal_conductivity = 0.025
+	apply_heat_capacity = 325000
+	can_paint = 1
+
+/decl/flooring/pavement
+	name = "Stone pavement"
+	desc = "some heavy sandstone flooring."
+	icon = 'icons/turf/flooring/tiles.dmi'
+	icon_base = "pavement"
+	flags = TURF_REMOVE_WRENCH | TURF_ACID_IMMUNE
+	apply_thermal_conductivity = 0.025
+	apply_heat_capacity = 325000
+	can_paint = 1
+
 
 
 decl/flooring/newgrass
