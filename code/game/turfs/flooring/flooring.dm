@@ -225,11 +225,11 @@ var/list/flooring_types
 	apply_heat_capacity = 325000
 	can_paint = 1
 
-/decl/flooring/sandstone_redstonetile
-	name = "Red andstone floor"
+/decl/flooring/sandstone_redstone
+	name = "Red sandstone floor"
 	desc = "some heavy sandstone flooring."
 	icon = 'icons/turf/flooring/tiles.dmi'
-	icon_base = "sandstone_redstonetile"
+	icon_base = "sandstone_redstone"
 	flags = TURF_REMOVE_WRENCH | TURF_ACID_IMMUNE
 	apply_thermal_conductivity = 0.025
 	apply_heat_capacity = 325000

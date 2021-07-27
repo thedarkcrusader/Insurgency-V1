@@ -115,11 +115,11 @@
 	icon_state = "sandstone_floor"
 	initial_flooring = /decl/flooring/sandstone_brick
 
-/turf/simulated/floor/sandstone_redstonetile
+/turf/simulated/floor/sandstone_redstone
 	name = "Sandstone flooring"
 	icon = 'icons/turf/flooring/tiles.dmi'
-	icon_state = "sandstone_redstonetile"
-	initial_flooring = /decl/flooring/sandstone_redstonetile
+	icon_state = "sandstone_redstone"
+	initial_flooring = /decl/flooring/sandstone_redstone
 
 	/turf/simulated/floor/sandstone_tile
 	name = "Sandstone flooring"
