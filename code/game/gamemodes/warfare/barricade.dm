@@ -14,7 +14,7 @@
 /obj/structure/defensive_barrier/Initialize()
 	. = ..()
 	update_icon()
-	GLOB.dir_set_event.register(src, src, .proc/update_layers)
+	GLOB.dir_set_event.register(src, src, PROC_REF(update_layers))
 
 /obj/structure/defensive_barrier/examine(mob/user)
 	. = ..()
@@ -35,7 +35,7 @@
 	qdel(src)
 
 /obj/structure/defensive_barrier/Destroy()
-	GLOB.dir_set_event.unregister(src, src, .proc/update_layers)
+	GLOB.dir_set_event.unregister(src, src, PROC_REF(update_layers))
 	. = ..()
 
 /obj/structure/defensive_barrier/proc/update_layers()
