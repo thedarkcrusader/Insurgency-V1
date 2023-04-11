@@ -293,3 +293,11 @@ GLOBAL_LIST_EMPTY(mortar_areas) // = list()
 		var/mob/living/carbon/human/H = mover
 		to_chat(H, "<big>I CANNOT DISOBEY ORDERS!</big>")
 	return FALSE
+
+
+
+/area/sun
+	name = "The sun can see through this area"
+	icon_state = "storage"
+	luminosity = 1
+	dynamic_lighting = 0

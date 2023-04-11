@@ -128,7 +128,7 @@
 	name = "Stone Brick"
 	desc = "A type of wall that is built from stone & brick, a proper sturdy wall of keeping those enemies out."
 	icon_state = "new_stonebrick0"
-	walltype = "Stonebricks"
+	walltype = "new_stonebrick"
 	mineral = "Stonebrick"
 
 /turf/simulated/wall/stonebrickwall

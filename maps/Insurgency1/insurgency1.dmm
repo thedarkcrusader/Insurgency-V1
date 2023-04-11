@@ -5,11 +5,11 @@
 	icon_state = "sandbag"
 	},
 /turf/simulated/floor/road,
-/area/space)
+/area/sun)
 "aq" = (
 /obj/structure/table/standard,
 /turf/simulated/floor/carpet/blue2,
-/area/space)
+/area/sun)
 "aA" = (
 /obj/machinery/conveyor{
 	icon_state = "switch-off"
@@ -18,25 +18,25 @@
 	dir = 1
 	},
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "aG" = (
 /obj/structure/bed/chair/office/light,
 /turf/simulated/floor/carpet/green,
-/area/space)
+/area/sun)
 "aN" = (
 /obj/structure/toilet,
 /turf/simulated/floor/ice,
-/area/space)
+/area/sun)
 "bi" = (
 /obj/machinery/door/airlock,
 /turf/simulated/floor/carpet/orange,
-/area/space)
+/area/sun)
 "bE" = (
 /obj/structure/railing{
 	icon_state = "mcorneroverlay"
 	},
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "cr" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	icon_state = "sandbag"
@@ -44,7 +44,7 @@
 /turf/simulated/floor/beach/sand{
 	icon_state = "dgrass0"
 	},
-/area/space)
+/area/sun)
 "cs" = (
 /obj/machinery/conveyor{
 	dir = 4
@@ -54,7 +54,7 @@
 	},
 /obj/effect/floor_decal/industrial/warning/full,
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "cz" = (
 /obj/machinery/conveyor{
 	dir = 4
@@ -64,24 +64,24 @@
 	},
 /obj/effect/floor_decal/industrial/warning/full,
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "cQ" = (
 /turf/simulated/floor/exoplanet/desert,
-/area/space)
+/area/sun)
 "dm" = (
 /obj/structure/table/standard,
 /turf/simulated/floor/wood,
-/area/space)
+/area/sun)
 "dn" = (
 /turf/simulated/floor/carpet,
-/area/space)
+/area/sun)
 "fq" = (
 /obj/effect/floor_decal/industrial/hatch,
 /obj/structure/window/reinforced{
 	dir = 1
 	},
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "fF" = (
 /obj/machinery/conveyor{
 	dir = 4
@@ -91,7 +91,7 @@
 	},
 /obj/effect/floor_decal/industrial/warning/full,
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "fH" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	dir = 8;
@@ -100,53 +100,53 @@
 /turf/simulated/floor/beach/sand{
 	icon_state = "dgrass0"
 	},
-/area/space)
+/area/sun)
 "fP" = (
 /obj/machinery/vending/coffee,
 /turf/simulated/floor/tiled,
-/area/space)
+/area/sun)
 "ga" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	dir = 8;
 	icon_state = "sandbag"
 	},
 /turf/simulated/floor/exoplanet/desert,
-/area/space)
+/area/sun)
 "gm" = (
 /obj/structure/table/standard,
 /obj/item/modular_computer/laptop,
 /turf/simulated/floor/carpet/blue2,
-/area/space)
+/area/sun)
 "gq" = (
 /obj/effect/floor_decal/industrial/outline/yellow,
 /obj/structure/largecrate,
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "gs" = (
 /obj/machinery/door/airlock,
 /turf/simulated/floor/carpet/blue2,
-/area/space)
+/area/sun)
 "gG" = (
 /obj/effect/wingrille_spawn,
 /obj/structure/barricade,
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "gJ" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	icon_state = "sandbag"
 	},
 /turf/simulated/floor/beach/sand,
-/area/space)
+/area/sun)
 "gK" = (
 /obj/structure/window/reinforced{
 	dir = 1
 	},
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "hm" = (
 /obj/structure/warfare/barricade/concrete_barrier,
 /turf/simulated/floor/beach/sand,
-/area/space)
+/area/sun)
 "hA" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	icon_state = "sandbag"
@@ -156,7 +156,7 @@
 	icon_state = "sandbag"
 	},
 /turf/simulated/floor/beach/sand,
-/area/space)
+/area/sun)
 "hG" = (
 /obj/machinery/conveyor{
 	dir = 8
@@ -166,11 +166,11 @@
 	},
 /obj/effect/floor_decal/industrial/warning/full,
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "id" = (
 /obj/machinery/vending/cigarette,
 /turf/simulated/floor/tiled,
-/area/space)
+/area/sun)
 "is" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	dir = 1;
@@ -181,17 +181,17 @@
 	icon_state = "sandbag"
 	},
 /turf/simulated/floor/road,
-/area/space)
+/area/sun)
 "iN" = (
 /obj/structure/reagent_dispensers/water_cooler,
 /turf/simulated/floor/wood,
-/area/space)
+/area/sun)
 "iZ" = (
 /obj/structure/bed/chair/office/light{
 	dir = 8
 	},
 /turf/simulated/floor/wood,
-/area/space)
+/area/sun)
 "jb" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	dir = 1;
@@ -202,11 +202,11 @@
 	icon_state = "sandbag"
 	},
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "je" = (
 /obj/effect/floor_decal/industrial/hatch,
 /turf/simulated/floor/road,
-/area/space)
+/area/sun)
 "jo" = (
 /obj/machinery/conveyor{
 	dir = 4
@@ -216,7 +216,7 @@
 	},
 /obj/effect/floor_decal/industrial/warning/full,
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "jq" = (
 /obj/structure/table/standard,
 /obj/structure/window/basic,
@@ -224,16 +224,16 @@
 	dir = 4
 	},
 /turf/simulated/floor/wood,
-/area/space)
+/area/sun)
 "jG" = (
 /obj/structure/railing{
 	dir = 1
 	},
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "jM" = (
 /turf/simulated/floor/holofloor/beach/water,
-/area/space)
+/area/sun)
 "jR" = (
 /obj/structure/table/standard,
 /obj/structure/window/basic{
@@ -243,7 +243,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/wood,
-/area/space)
+/area/sun)
 "kF" = (
 /obj/structure/table/standard,
 /obj/structure/window/basic{
@@ -251,63 +251,63 @@
 	},
 /obj/structure/window/basic,
 /turf/simulated/floor/wood,
-/area/space)
+/area/sun)
 "li" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	dir = 8;
 	icon_state = "sandbag"
 	},
 /turf/simulated/floor/beach/sand,
-/area/space)
+/area/sun)
 "lC" = (
 /obj/effect/wingrille_spawn,
 /obj/structure/curtain,
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "lI" = (
 /obj/machinery/conveyor{
 	dir = 6
 	},
 /obj/effect/floor_decal/industrial/warning/full,
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "lY" = (
 /turf/simulated/floor/tiled,
-/area/space)
+/area/sun)
 "mc" = (
 /obj/structure/table/standard,
 /obj/structure/window/basic{
 	dir = 1
 	},
 /turf/simulated/floor/wood,
-/area/space)
+/area/sun)
 "mf" = (
 /obj/machinery/door/airlock,
 /turf/space,
-/area/space)
+/area/sun)
 "ml" = (
 /obj/machinery/door/airlock,
 /turf/simulated/floor/wood,
-/area/space)
+/area/sun)
 "mp" = (
 /obj/structure/filingcabinet,
 /turf/simulated/floor/carpet/green,
-/area/space)
+/area/sun)
 "mH" = (
 /obj/structure/railing{
 	dir = 4;
 	icon_state = "mcorneroverlay"
 	},
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "mT" = (
 /obj/structure/bookcase,
 /turf/simulated/floor/carpet/green,
-/area/space)
+/area/sun)
 "mX" = (
 /obj/structure/closet/crate,
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "nn" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	icon_state = "sandbag"
@@ -317,7 +317,7 @@
 	icon_state = "sandbag"
 	},
 /turf/simulated/floor/road,
-/area/space)
+/area/sun)
 "nK" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	dir = 4;
@@ -328,7 +328,7 @@
 	icon_state = "sandbag"
 	},
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "nM" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	dir = 1;
@@ -337,88 +337,88 @@
 /turf/simulated/floor/beach/sand{
 	icon_state = "dgrass0"
 	},
-/area/space)
+/area/sun)
 "om" = (
 /obj/machinery/door/airlock,
 /turf/simulated/floor/ice,
-/area/space)
+/area/sun)
 "ot" = (
 /obj/effect/floor_decal/industrial/hatch,
 /obj/structure/window/reinforced,
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "oD" = (
 /turf/simulated/floor/beach/sand{
 	icon_state = "dgrass0"
 	},
-/area/space)
+/area/sun)
 "oF" = (
 /obj/structure/flora/ausbushes/grassybush,
 /turf/simulated/floor/beach/sand{
 	icon_state = "dgrass0"
 	},
-/area/space)
+/area/sun)
 "oL" = (
 /obj/structure/bookcase,
 /turf/simulated/floor/carpet/red,
-/area/space)
+/area/sun)
 "oN" = (
 /obj/structure/anti_tank,
 /turf/simulated/floor/road,
-/area/space)
+/area/sun)
 "oY" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	dir = 8
 	},
 /turf/simulated/floor/road,
-/area/space)
+/area/sun)
 "oZ" = (
 /obj/structure/table/standard,
 /turf/simulated/floor/carpet,
-/area/space)
+/area/sun)
 "pc" = (
 /obj/effect/wingrille_spawn,
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "pd" = (
 /obj/structure/bed/chair/office/light,
 /turf/simulated/floor/wood,
-/area/space)
+/area/sun)
 "ph" = (
 /obj/structure/table/standard,
 /obj/structure/window/basic{
 	dir = 8
 	},
 /turf/simulated/floor/wood,
-/area/space)
+/area/sun)
 "pz" = (
 /obj/structure/table/standard,
 /obj/item/modular_computer/laptop,
 /turf/simulated/floor/carpet/red,
-/area/space)
+/area/sun)
 "pL" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	icon_state = "three_b"
 	},
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "pO" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	icon_state = "sandbag"
 	},
 /turf/simulated/floor/exoplanet/desert,
-/area/space)
+/area/sun)
 "pW" = (
 /obj/machinery/conveyor{
 	icon_state = "switch-off"
 	},
 /obj/structure/window/reinforced,
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "pY" = (
 /obj/structure/flora/pottedplant/minitree,
 /turf/simulated/floor/wood,
-/area/space)
+/area/sun)
 "qi" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	dir = 4;
@@ -428,14 +428,14 @@
 	icon_state = "sandbag"
 	},
 /turf/simulated/floor/beach/sand,
-/area/space)
+/area/sun)
 "qz" = (
 /obj/machinery/conveyor{
 	dir = 10
 	},
 /obj/effect/floor_decal/industrial/warning/full,
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "qU" = (
 /obj/machinery/conveyor{
 	dir = 8
@@ -445,69 +445,69 @@
 	},
 /obj/effect/floor_decal/industrial/warning/full,
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "qX" = (
 /obj/structure/warfare/barricade/concrete_barrier,
 /turf/simulated/floor/road,
-/area/space)
+/area/sun)
 "rq" = (
 /obj/machinery/door/unpowered/simple/wood,
 /turf/simulated/floor/wood,
-/area/space)
+/area/sun)
 "sd" = (
 /obj/structure/stairs/west,
 /turf/simulated/floor/wood,
-/area/space)
+/area/sun)
 "sZ" = (
 /turf/simulated/wall/stonefortress,
-/area/space)
+/area/sun)
 "tU" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	dir = 4;
 	icon_state = "sandbag"
 	},
 /turf/simulated/floor/road,
-/area/space)
+/area/sun)
 "tY" = (
 /obj/structure/railing,
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "uf" = (
 /obj/structure/bed/chair/office/light{
 	dir = 4
 	},
 /turf/simulated/floor/wood,
-/area/space)
+/area/sun)
 "uw" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	dir = 1;
 	icon_state = "sandbag"
 	},
 /turf/simulated/floor/road,
-/area/space)
+/area/sun)
 "uJ" = (
 /turf/simulated/floor/wood,
-/area/space)
+/area/sun)
 "vj" = (
 /obj/structure/bed/chair/office/light{
 	dir = 4
 	},
 /turf/simulated/floor/carpet/orange,
-/area/space)
+/area/sun)
 "vD" = (
 /obj/effect/overlay/palmtree_l,
 /obj/structure/flora/ausbushes/grassybush,
 /turf/simulated/floor/beach/sand{
 	icon_state = "dgrass0"
 	},
-/area/space)
+/area/sun)
 "wa" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	dir = 8;
 	icon_state = "sandbag"
 	},
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "wj" = (
 /obj/structure/railing{
 	dir = 1
@@ -516,7 +516,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "wp" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	icon_state = "sandbag"
@@ -526,42 +526,42 @@
 	icon_state = "sandbag"
 	},
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "ww" = (
 /obj/effect/floor_decal/industrial/outline/yellow,
 /obj/structure/table/rack/shelf,
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "xc" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	dir = 1;
 	icon_state = "sandbag"
 	},
 /turf/simulated/floor/exoplanet/desert,
-/area/space)
+/area/sun)
 "xx" = (
 /obj/structure/window/reinforced,
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "xz" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	icon_state = "two_b"
 	},
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "yl" = (
 /obj/machinery/conveyor{
 	dir = 8
 	},
 /obj/effect/floor_decal/industrial/warning/full,
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "yu" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	icon_state = "four_b"
 	},
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "yv" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	dir = 4;
@@ -574,7 +574,7 @@
 /turf/simulated/floor/beach/sand{
 	icon_state = "dgrass0"
 	},
-/area/space)
+/area/sun)
 "yx" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	dir = 1;
@@ -585,15 +585,15 @@
 	icon_state = "sandbag"
 	},
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "yF" = (
 /obj/structure/table/standard,
 /turf/simulated/floor/tiled,
-/area/space)
+/area/sun)
 "zw" = (
 /obj/structure/filingcabinet,
 /turf/simulated/floor/carpet,
-/area/space)
+/area/sun)
 "zK" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	dir = 1;
@@ -604,35 +604,35 @@
 	icon_state = "sandbag"
 	},
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "zM" = (
 /turf/simulated/floor/road,
-/area/space)
+/area/sun)
 "AK" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	dir = 8
 	},
 /turf/simulated/floor/beach/sand,
-/area/space)
+/area/sun)
 "Bf" = (
 /obj/structure/filingcabinet,
 /turf/simulated/floor/carpet/blue2,
-/area/space)
+/area/sun)
 "BL" = (
 /obj/machinery/vending/cola,
 /turf/simulated/floor/tiled,
-/area/space)
+/area/sun)
 "Cp" = (
 /obj/structure/table/standard,
 /obj/item/modular_computer/laptop,
 /turf/simulated/floor/carpet/orange,
-/area/space)
+/area/sun)
 "CS" = (
 /obj/structure/railing{
 	dir = 4
 	},
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "DA" = (
 /obj/machinery/conveyor{
 	dir = 4
@@ -642,34 +642,34 @@
 	},
 /obj/effect/floor_decal/industrial/warning/full,
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "DF" = (
 /obj/machinery/conveyor{
 	dir = 4
 	},
 /obj/effect/floor_decal/industrial/warning/full,
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "DG" = (
 /obj/structure/closet/crate{
 	icon_state = "crateopen"
 	},
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "DS" = (
 /obj/effect/floor_decal/industrial/outline,
 /obj/structure/closet/crate{
 	icon_state = "crateopen"
 	},
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "Ea" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	dir = 4;
 	icon_state = "sandbag"
 	},
 /turf/simulated/floor/beach/sand,
-/area/space)
+/area/sun)
 "Ei" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	icon_state = "sandbag"
@@ -679,78 +679,78 @@
 	icon_state = "sandbag"
 	},
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "Fq" = (
 /obj/machinery/conveyor,
 /obj/effect/floor_decal/industrial/warning/full,
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "FC" = (
 /obj/structure/table/standard,
 /turf/simulated/floor/carpet/red,
-/area/space)
+/area/sun)
 "FP" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	dir = 4
 	},
 /turf/simulated/floor/beach/sand,
-/area/space)
+/area/sun)
 "GM" = (
 /obj/structure/table/standard,
 /obj/machinery/photocopier/faxmachine,
 /turf/simulated/floor/wood,
-/area/space)
+/area/sun)
 "Ho" = (
 /obj/effect/overlay/palmtree_l,
 /turf/simulated/floor/beach/sand{
 	icon_state = "dgrass0"
 	},
-/area/space)
+/area/sun)
 "HO" = (
 /obj/structure/table/standard,
 /obj/item/paper_bin,
 /turf/simulated/floor/wood,
-/area/space)
+/area/sun)
 "Ic" = (
 /obj/structure/bed/chair/office/light,
 /turf/simulated/floor/carpet,
-/area/space)
+/area/sun)
 "Ie" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	dir = 1;
 	icon_state = "sandbag"
 	},
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "IO" = (
 /obj/structure/largecrate,
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "JA" = (
 /obj/structure/bookcase,
 /turf/simulated/floor/carpet,
-/area/space)
+/area/sun)
 "JE" = (
 /obj/machinery/papershredder,
 /turf/simulated/floor/wood,
-/area/space)
+/area/sun)
 "JF" = (
 /obj/structure/bed/chair/office/light{
 	dir = 4
 	},
 /turf/simulated/floor/carpet/blue2,
-/area/space)
+/area/sun)
 "JJ" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	icon_state = "sandbag"
 	},
 /turf/simulated/floor/road,
-/area/space)
+/area/sun)
 "JV" = (
 /obj/structure/table/standard,
 /obj/item/modular_computer/laptop,
 /turf/simulated/floor/wood,
-/area/space)
+/area/sun)
 "Ka" = (
 /obj/machinery/conveyor{
 	dir = 8
@@ -760,46 +760,46 @@
 	},
 /obj/effect/floor_decal/industrial/warning/full,
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "Kv" = (
 /turf/simulated/floor/beach/water/ocean,
-/area/space)
+/area/sun)
 "KL" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	dir = 1
 	},
 /turf/simulated/floor/road,
-/area/space)
+/area/sun)
 "KM" = (
 /obj/structure/urinal,
 /turf/simulated/floor/ice,
-/area/space)
+/area/sun)
 "KV" = (
 /obj/structure/bookcase,
 /turf/simulated/floor/carpet/orange,
-/area/space)
+/area/sun)
 "La" = (
 /obj/structure/table/rack/shelf,
 /turf/simulated/floor/wood,
-/area/space)
+/area/sun)
 "Lf" = (
 /obj/structure/table/standard,
 /obj/structure/window/basic{
 	dir = 4
 	},
 /turf/simulated/floor/wood,
-/area/space)
+/area/sun)
 "Lk" = (
 /obj/effect/floor_decal/industrial/outline/yellow,
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "Lt" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	dir = 4;
 	icon_state = "sandbag"
 	},
 /turf/simulated/floor/exoplanet/desert,
-/area/space)
+/area/sun)
 "LX" = (
 /obj/machinery/conveyor{
 	dir = 8
@@ -809,28 +809,28 @@
 	},
 /obj/effect/floor_decal/industrial/warning/full,
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "LY" = (
 /obj/structure/table/standard,
 /obj/item/modular_computer/laptop,
 /turf/simulated/floor/carpet,
-/area/space)
+/area/sun)
 "Mq" = (
 /obj/effect/floor_decal/industrial/outline/yellow,
 /obj/structure/closet/crate,
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "MG" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	dir = 1
 	},
 /turf/simulated/floor/beach/sand,
-/area/space)
+/area/sun)
 "MH" = (
 /obj/structure/table/standard,
 /obj/structure/window/basic,
 /turf/simulated/floor/wood,
-/area/space)
+/area/sun)
 "MK" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	icon_state = "sandbag"
@@ -842,64 +842,64 @@
 /turf/simulated/floor/beach/sand{
 	icon_state = "dgrass0"
 	},
-/area/space)
+/area/sun)
 "MW" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	icon_state = "one_b"
 	},
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "Nb" = (
 /obj/item/modular_computer/console,
 /turf/simulated/floor/tiled,
-/area/space)
+/area/sun)
 "Nl" = (
 /obj/structure/filingcabinet,
 /turf/simulated/floor/carpet/orange,
-/area/space)
+/area/sun)
 "NA" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	dir = 4
 	},
 /turf/simulated/floor/road,
-/area/space)
+/area/sun)
 "NI" = (
 /obj/machinery/door/airlock,
 /turf/simulated/floor/tiled,
-/area/space)
+/area/sun)
 "NO" = (
 /obj/structure/railing{
 	dir = 4
 	},
 /obj/structure/railing,
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "NT" = (
 /obj/structure/anti_tank,
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "Od" = (
 /turf/simulated/floor/carpet/red,
-/area/space)
+/area/sun)
 "On" = (
 /obj/structure/table/standard,
 /turf/simulated/floor/carpet/green,
-/area/space)
+/area/sun)
 "OZ" = (
 /obj/structure/table/standard,
 /obj/item/modular_computer/laptop,
 /turf/simulated/floor/carpet/green,
-/area/space)
+/area/sun)
 "Pa" = (
 /turf/simulated/floor/beach/sand,
-/area/space)
+/area/sun)
 "Pd" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	dir = 4;
 	icon_state = "sandbag"
 	},
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "Pj" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	dir = 4;
@@ -910,7 +910,7 @@
 	icon_state = "sandbag"
 	},
 /turf/simulated/floor/road,
-/area/space)
+/area/sun)
 "PI" = (
 /obj/machinery/conveyor{
 	dir = 8
@@ -920,45 +920,45 @@
 	},
 /obj/effect/floor_decal/industrial/warning/full,
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "PR" = (
 /obj/structure/filingcabinet,
 /turf/simulated/floor/carpet/red,
-/area/space)
+/area/sun)
 "Qc" = (
 /obj/machinery/vending/snack,
 /turf/simulated/floor/tiled,
-/area/space)
+/area/sun)
 "Qe" = (
 /obj/machinery/door/airlock,
 /turf/simulated/floor/carpet/red,
-/area/space)
+/area/sun)
 "Qt" = (
 /obj/structure/table/standard,
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "QC" = (
 /obj/machinery/door/airlock,
 /turf/simulated/floor/carpet,
-/area/space)
+/area/sun)
 "QH" = (
 /obj/structure/railing{
 	dir = 8;
 	icon_state = "mcorneroverlay"
 	},
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "QY" = (
 /turf/simulated/floor/carpet/blue,
-/area/space)
+/area/sun)
 "Rx" = (
 /obj/machinery/photocopier,
 /turf/simulated/floor/wood,
-/area/space)
+/area/sun)
 "Rz" = (
 /obj/effect/floor_decal/industrial/outline,
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "RB" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	dir = 8;
@@ -969,7 +969,7 @@
 	icon_state = "sandbag"
 	},
 /turf/simulated/floor/road,
-/area/space)
+/area/sun)
 "RV" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	icon_state = "sandbag"
@@ -981,10 +981,10 @@
 /turf/simulated/floor/beach/sand{
 	icon_state = "dgrass0"
 	},
-/area/space)
+/area/sun)
 "Sb" = (
 /turf/simulated/wall/sandstone,
-/area/space)
+/area/sun)
 "Su" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	dir = 1;
@@ -995,14 +995,14 @@
 	icon_state = "sandbag"
 	},
 /turf/simulated/floor/beach/sand,
-/area/space)
+/area/sun)
 "SA" = (
 /obj/machinery/door/airlock,
 /turf/simulated/floor/carpet/green,
-/area/space)
+/area/sun)
 "SS" = (
 /turf/simulated/floor/carpet/green,
-/area/space)
+/area/sun)
 "Tn" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	icon_state = "sandbag"
@@ -1012,15 +1012,15 @@
 	icon_state = "sandbag"
 	},
 /turf/simulated/floor/beach/sand,
-/area/space)
+/area/sun)
 "Tr" = (
 /obj/machinery/door/blast/shutters,
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "Uk" = (
 /obj/structure/bed/chair/office/light,
 /turf/simulated/floor/carpet/red,
-/area/space)
+/area/sun)
 "Us" = (
 /obj/machinery/conveyor{
 	dir = 4
@@ -1030,14 +1030,14 @@
 	},
 /obj/effect/floor_decal/industrial/warning/full,
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "Uv" = (
 /obj/structure/sink,
 /turf/simulated/floor/ice,
-/area/space)
+/area/sun)
 "Ux" = (
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "Uz" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	dir = 8;
@@ -1047,24 +1047,24 @@
 	icon_state = "sandbag"
 	},
 /turf/simulated/floor/beach/sand,
-/area/space)
+/area/sun)
 "UE" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	icon_state = "sandbag"
 	},
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "VG" = (
 /turf/simulated/floor/ice,
-/area/space)
+/area/sun)
 "VH" = (
 /obj/structure/filingcabinet,
 /turf/simulated/floor/wood,
-/area/space)
+/area/sun)
 "VS" = (
 /obj/machinery/door/airlock,
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "We" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	dir = 8;
@@ -1077,30 +1077,30 @@
 /turf/simulated/floor/beach/sand{
 	icon_state = "dgrass0"
 	},
-/area/space)
+/area/sun)
 "Ws" = (
 /obj/structure/closet/crate/trashcart,
 /turf/simulated/floor/beach/sand,
-/area/space)
+/area/sun)
 "WD" = (
 /obj/structure/toilet{
 	dir = 1
 	},
 /turf/simulated/floor/ice,
-/area/space)
+/area/sun)
 "WM" = (
 /turf/simulated/floor/carpet/orange,
-/area/space)
+/area/sun)
 "Xj" = (
 /obj/structure/railing{
 	dir = 8
 	},
 /turf/simulated/floor/exoplanet/concrete,
-/area/space)
+/area/sun)
 "Yv" = (
 /obj/structure/table/standard,
 /turf/simulated/floor/carpet/orange,
-/area/space)
+/area/sun)
 "Za" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	dir = 4;
@@ -1109,16 +1109,16 @@
 /turf/simulated/floor/beach/sand{
 	icon_state = "dgrass0"
 	},
-/area/space)
+/area/sun)
 "Zj" = (
 /obj/structure/sink{
 	dir = 1
 	},
 /turf/simulated/floor/ice,
-/area/space)
+/area/sun)
 "Zw" = (
 /turf/simulated/floor/carpet/blue2,
-/area/space)
+/area/sun)
 
 (1,1,1) = {"
 cQ
