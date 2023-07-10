@@ -65,6 +65,17 @@
 /obj/effect/floor_decal/industrial/warning/full,
 /turf/simulated/floor/exoplanet/concrete,
 /area/sun)
+"cP" = (
+/obj/structure/bed/chair/office/dark{
+	dir = 4
+	},
+/obj/machinery/button/remote/blast_door/lever{
+	pixel_y = 30;
+	name = "Lockup Access";
+	id = "checkpointPrison"
+	},
+/turf/simulated/floor/exoplanet/concrete,
+/area/sun)
 "cQ" = (
 /turf/simulated/floor/exoplanet/desert,
 /area/sun)
@@ -147,6 +158,10 @@
 /obj/structure/warfare/barricade/concrete_barrier,
 /turf/simulated/floor/beach/sand,
 /area/sun)
+"hp" = (
+/obj/structure/closet/crate/trashcart,
+/turf/simulated/floor/exoplanet/desert,
+/area/sun)
 "hA" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	icon_state = "sandbag"
@@ -156,6 +171,11 @@
 	icon_state = "sandbag"
 	},
 /turf/simulated/floor/beach/sand,
+/area/sun)
+"hB" = (
+/obj/structure/table/steel_reinforced,
+/obj/item/newspaper,
+/turf/simulated/floor/exoplanet/concrete,
 /area/sun)
 "hG" = (
 /obj/machinery/conveyor{
@@ -170,6 +190,12 @@
 "id" = (
 /obj/machinery/vending/cigarette,
 /turf/simulated/floor/tiled,
+/area/sun)
+"ih" = (
+/obj/structure/warfare/barricade/concrete_barrier{
+	icon_state = "four_b"
+	},
+/turf/simulated/floor/beach/sand,
 /area/sun)
 "is" = (
 /obj/structure/warfare/barricade/concrete_barrier{
@@ -206,6 +232,12 @@
 "je" = (
 /obj/effect/floor_decal/industrial/hatch,
 /turf/simulated/floor/road,
+/area/sun)
+"jm" = (
+/obj/structure/warfare/barricade/concrete_barrier{
+	icon_state = "two_b"
+	},
+/turf/simulated/floor/exoplanet/desert,
 /area/sun)
 "jo" = (
 /obj/machinery/conveyor{
@@ -436,6 +468,14 @@
 /obj/effect/floor_decal/industrial/warning/full,
 /turf/simulated/floor/exoplanet/concrete,
 /area/sun)
+"qD" = (
+/obj/effect/decal/cleanable/blood/tracks,
+/turf/simulated/floor/exoplanet/concrete,
+/area/sun)
+"qT" = (
+/obj/structure/grille,
+/turf/simulated/floor/exoplanet/concrete,
+/area/sun)
 "qU" = (
 /obj/machinery/conveyor{
 	dir = 8
@@ -454,12 +494,31 @@
 /obj/machinery/door/unpowered/simple/wood,
 /turf/simulated/floor/wood,
 /area/sun)
+"rK" = (
+/obj/structure/table/steel_reinforced,
+/obj/item/paper_bin,
+/obj/item/pen,
+/turf/simulated/floor/exoplanet/concrete,
+/area/sun)
 "sd" = (
 /obj/structure/stairs/west,
 /turf/simulated/floor/wood,
 /area/sun)
+"sw" = (
+/obj/structure/warfare/barricade/concrete_barrier{
+	dir = 1;
+	icon_state = "sandbag"
+	},
+/turf/simulated/floor/beach/sand,
+/area/sun)
 "sZ" = (
 /turf/simulated/wall/stonefortress,
+/area/sun)
+"tu" = (
+/obj/structure/bed/chair/office/dark{
+	dir = 4
+	},
+/turf/simulated/floor/exoplanet/concrete,
 /area/sun)
 "tU" = (
 /obj/structure/warfare/barricade/concrete_barrier{
@@ -517,6 +576,16 @@
 	},
 /turf/simulated/floor/exoplanet/concrete,
 /area/sun)
+"wn" = (
+/obj/structure/warfare/barricade/concrete_barrier{
+	icon_state = "three_b"
+	},
+/turf/simulated/floor/exoplanet/desert,
+/area/sun)
+"wo" = (
+/obj/structure/bed,
+/turf/simulated/floor/exoplanet/concrete,
+/area/sun)
 "wp" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	icon_state = "sandbag"
@@ -538,6 +607,15 @@
 	icon_state = "sandbag"
 	},
 /turf/simulated/floor/exoplanet/desert,
+/area/sun)
+"xd" = (
+/obj/structure/table/standard,
+/obj/item/device/radio/phone,
+/obj/item/folder/envelope{
+	desc = "A thick envelope. You can't see what's inside. A note on the back reads: "Accidentally Sealed, no photos inside, throw it away""
+	},
+/obj/item/device/camera,
+/turf/simulated/floor/exoplanet/concrete,
 /area/sun)
 "xx" = (
 /obj/structure/window/reinforced,
@@ -586,9 +664,20 @@
 	},
 /turf/simulated/floor/exoplanet/concrete,
 /area/sun)
+"yB" = (
+/obj/structure/warfare/barricade/concrete_barrier{
+	icon_state = "three_b"
+	},
+/turf/simulated/floor/beach/sand,
+/area/sun)
 "yF" = (
 /obj/structure/table/standard,
 /turf/simulated/floor/tiled,
+/area/sun)
+"yO" = (
+/obj/structure/table/woodentable,
+/obj/item/device/radio/intercept,
+/turf/simulated/floor/exoplanet/desert,
 /area/sun)
 "zw" = (
 /obj/structure/filingcabinet,
@@ -617,6 +706,16 @@
 "Bf" = (
 /obj/structure/filingcabinet,
 /turf/simulated/floor/carpet/blue2,
+/area/sun)
+"Bj" = (
+/obj/structure/filingcabinet,
+/turf/simulated/floor/exoplanet/concrete,
+/area/sun)
+"By" = (
+/obj/machinery/door/airlock{
+	name = "Custoidal Supplies"
+	},
+/turf/simulated/floor/exoplanet/concrete,
 /area/sun)
 "BL" = (
 /obj/machinery/vending/cola,
@@ -680,6 +779,22 @@
 	},
 /turf/simulated/floor/exoplanet/concrete,
 /area/sun)
+"Er" = (
+/obj/structure/table/steel_reinforced,
+/turf/simulated/floor/exoplanet/concrete,
+/area/sun)
+"Fg" = (
+/obj/structure/table/standard,
+/obj/item/device/radio/phone,
+/turf/simulated/floor/exoplanet/concrete,
+/area/sun)
+"Fl" = (
+/obj/structure/table/woodentable,
+/obj/item/device/radio/intercept,
+/turf/simulated/floor/beach/sand{
+	icon_state = "dgrass0"
+	},
+/area/sun)
 "Fq" = (
 /obj/machinery/conveyor,
 /obj/effect/floor_decal/industrial/warning/full,
@@ -711,6 +826,16 @@
 /obj/item/paper_bin,
 /turf/simulated/floor/wood,
 /area/sun)
+"HS" = (
+/obj/structure/warfare/barricade/concrete_barrier{
+	dir = 4;
+	icon_state = "sandbag"
+	},
+/obj/structure/warfare/barricade/concrete_barrier{
+	icon_state = "sandbag"
+	},
+/turf/simulated/floor/exoplanet/desert,
+/area/sun)
 "Ic" = (
 /obj/structure/bed/chair/office/light,
 /turf/simulated/floor/carpet,
@@ -724,6 +849,12 @@
 /area/sun)
 "IO" = (
 /obj/structure/largecrate,
+/turf/simulated/floor/exoplanet/concrete,
+/area/sun)
+"IQ" = (
+/obj/machinery/door/blast/grates{
+	id = "CheckpointJail"
+	},
 /turf/simulated/floor/exoplanet/concrete,
 /area/sun)
 "JA" = (
@@ -764,6 +895,12 @@
 "Kv" = (
 /turf/simulated/floor/beach/water/ocean,
 /area/sun)
+"KC" = (
+/obj/structure/bed/chair/office/dark{
+	dir = 4
+	},
+/turf/simulated/floor/beach/sand,
+/area/sun)
 "KL" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	dir = 1
@@ -777,6 +914,12 @@
 "KV" = (
 /obj/structure/bookcase,
 /turf/simulated/floor/carpet/orange,
+/area/sun)
+"KZ" = (
+/obj/structure/table/woodentable,
+/obj/item/paper/crumpled,
+/obj/item/pen,
+/turf/simulated/floor/exoplanet/desert,
 /area/sun)
 "La" = (
 /obj/structure/table/rack/shelf,
@@ -815,9 +958,23 @@
 /obj/item/modular_computer/laptop,
 /turf/simulated/floor/carpet,
 /area/sun)
+"Mn" = (
+/obj/structure/table/steel_reinforced,
+/obj/machinery/button/remote/blast_door/lever{
+	name = "Contraband Lockup";
+	id = "CheckpointJail"
+	},
+/turf/simulated/floor/exoplanet/concrete,
+/area/sun)
 "Mq" = (
 /obj/effect/floor_decal/industrial/outline/yellow,
 /obj/structure/closet/crate,
+/turf/simulated/floor/exoplanet/concrete,
+/area/sun)
+"Mr" = (
+/obj/structure/table/standard,
+/obj/item/scalpel,
+/obj/item/wirecutters,
 /turf/simulated/floor/exoplanet/concrete,
 /area/sun)
 "MG" = (
@@ -884,6 +1041,12 @@
 "On" = (
 /obj/structure/table/standard,
 /turf/simulated/floor/carpet/green,
+/area/sun)
+"OK" = (
+/obj/structure/table/rack/shelf,
+/obj/item/stack/medical/bruise_pack,
+/obj/effect/decal/cleanable/blood/gibs,
+/turf/simulated/floor/exoplanet/concrete,
 /area/sun)
 "OZ" = (
 /obj/structure/table/standard,
@@ -985,6 +1148,12 @@
 "Sb" = (
 /turf/simulated/wall/sandstone,
 /area/sun)
+"So" = (
+/obj/machinery/door/blast/grates/open{
+	id = "checkpointPrison"
+	},
+/turf/simulated/floor/exoplanet/concrete,
+/area/sun)
 "Su" = (
 /obj/structure/warfare/barricade/concrete_barrier{
 	dir = 1;
@@ -1015,6 +1184,29 @@
 /area/sun)
 "Tr" = (
 /obj/machinery/door/blast/shutters,
+/turf/simulated/floor/exoplanet/concrete,
+/area/sun)
+"Ub" = (
+/obj/structure/table/rack/shelf,
+/obj/effect/decal/cleanable/blood/gibs,
+/turf/simulated/floor/exoplanet/concrete,
+/area/sun)
+"Uc" = (
+/obj/structure/warfare/barricade/concrete_barrier{
+	dir = 1;
+	icon_state = "sandbag"
+	},
+/obj/structure/warfare/barricade/concrete_barrier{
+	dir = 4;
+	icon_state = "sandbag"
+	},
+/turf/simulated/floor/beach/sand,
+/area/sun)
+"Uh" = (
+/obj/structure/bed/chair/wood{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/blood/gibs,
 /turf/simulated/floor/exoplanet/concrete,
 /area/sun)
 "Uk" = (
@@ -1090,6 +1282,11 @@
 /area/sun)
 "WM" = (
 /turf/simulated/floor/carpet/orange,
+/area/sun)
+"WR" = (
+/obj/structure/table/woodentable,
+/obj/item/ammo_magazine/mc9mm,
+/turf/simulated/floor/exoplanet/desert,
 /area/sun)
 "Xj" = (
 /obj/structure/railing{
@@ -39255,16 +39452,16 @@ Pa
 Pa
 cQ
 cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
+sZ
+sZ
+sZ
+sZ
+sZ
+sZ
+sZ
+sZ
+sZ
+sZ
 cQ
 cQ
 cQ
@@ -39607,21 +39804,21 @@ Pa
 Pa
 Pa
 Pa
-Pa
+sZ
+sZ
+sZ
+sZ
 cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
+sZ
+tu
+Ux
+VS
+Ux
+By
+qD
+qD
+Uh
+sZ
 cQ
 cQ
 cQ
@@ -39963,22 +40160,22 @@ Pa
 Pa
 Pa
 Pa
+sZ
+sZ
+Bj
+Bj
+sZ
 cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
+sZ
+Mn
+xd
+pc
+Ux
+sZ
+OK
+Ux
+Mr
+sZ
 cQ
 cQ
 cQ
@@ -40320,22 +40517,22 @@ Pa
 Pa
 Pa
 Pa
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
+sZ
+cP
+Ux
+Ux
+sZ
+pc
+sZ
+pc
+pc
+pc
+Ux
+sZ
+sZ
+sZ
+sZ
+sZ
 cQ
 cQ
 cQ
@@ -40677,18 +40874,18 @@ Pa
 Pa
 Pa
 Pa
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
+sZ
+rK
+hB
+Ux
+So
+Ux
+So
+Ux
+Ux
+Ux
+Ux
+sZ
 cQ
 cQ
 cQ
@@ -41033,19 +41230,19 @@ Pa
 Pa
 Pa
 Pa
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
+sZ
+Ux
+Ux
+Ux
+Ux
+sZ
+pc
+sZ
+Ux
+Ux
+Ux
+Ux
+sZ
 cQ
 cQ
 cQ
@@ -41389,20 +41586,20 @@ Pa
 Pa
 Pa
 Pa
+sZ
+Ux
+Ux
+Ux
+Ux
+Ux
+sZ
 cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
+sZ
+Ux
+Ux
+Ux
+Ux
+sZ
 cQ
 cQ
 cQ
@@ -41746,20 +41943,20 @@ Pa
 Pa
 Pa
 Pa
+sZ
+VS
+sZ
+gG
+sZ
+sZ
+sZ
 cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
+sZ
+qT
+qT
+qT
+IQ
+sZ
 cQ
 cQ
 cQ
@@ -42103,20 +42300,20 @@ Pa
 Pa
 Pa
 Pa
+sw
 Pa
+Pa
+Pa
+Pa
+hp
+jm
 cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
+sZ
+Ub
+Ux
+Ux
+Ux
+sZ
 cQ
 cQ
 cQ
@@ -42461,19 +42658,19 @@ Pa
 Pa
 Pa
 cQ
+Pa
+Pa
+Pa
+Pa
 cQ
 cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
+Lt
+sZ
+wo
+Ux
+Ux
+Ux
+sZ
 cQ
 cQ
 cQ
@@ -42818,19 +43015,19 @@ Pa
 Pa
 Pa
 cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
+Pa
+Pa
+Pa
+Pa
+Pa
+Pa
+Pa
+sZ
+wo
+Ux
+wo
+wo
+sZ
 cQ
 cQ
 cQ
@@ -43178,16 +43375,16 @@ cQ
 cQ
 cQ
 cQ
+Pa
+Pa
+Pa
 cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
+sZ
+sZ
+sZ
+sZ
+sZ
+sZ
 cQ
 cQ
 cQ
@@ -43531,14 +43728,14 @@ Pa
 Pa
 Pa
 cQ
+xc
 cQ
 cQ
 cQ
 cQ
-cQ
-cQ
-cQ
-cQ
+Pa
+Pa
+pO
 cQ
 cQ
 cQ
@@ -43888,14 +44085,14 @@ Pa
 Pa
 Pa
 cQ
+xc
 cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
+yO
+WR
+wn
+Pa
+Pa
+pO
 cQ
 cQ
 cQ
@@ -44245,14 +44442,14 @@ Pa
 Pa
 Pa
 cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
+sZ
+VS
+sZ
+sZ
+Pa
+Pa
+Pa
+pO
 cQ
 cQ
 cQ
@@ -44602,14 +44799,14 @@ Pa
 Pa
 Pa
 cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
+Er
+Ux
+Qt
+sZ
+Pa
+Pa
+Pa
+pO
 cQ
 cQ
 cQ
@@ -44953,20 +45150,20 @@ cQ
 cQ
 cQ
 Pa
+yB
+Pa
+Pa
+yB
+ih
+Pa
+gG
+Ux
+Fg
+sZ
 Pa
 Pa
 Pa
-Pa
-Pa
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
+pO
 cQ
 cQ
 cQ
@@ -45310,20 +45507,20 @@ cQ
 cQ
 cQ
 cQ
+li
 Pa
+li
+li
+Uz
 Pa
+pc
+pc
+pc
+sZ
 Pa
+cQ
 Pa
-Pa
-Pa
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
+HS
 cQ
 cQ
 cQ
@@ -45672,14 +45869,14 @@ Pa
 Pa
 Pa
 Pa
+Pa
+Pa
+Pa
+Pa
+Pa
+Pa
 cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
+Pa
 cQ
 cQ
 cQ
@@ -46029,14 +46226,14 @@ Pa
 Pa
 Pa
 Pa
+Pa
+Pa
+Pa
+Pa
 cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
+Pa
+Pa
+Pa
 cQ
 cQ
 cQ
@@ -46387,13 +46584,13 @@ Pa
 Pa
 Pa
 Pa
+Pa
+Pa
+Pa
 cQ
+Pa
 cQ
-cQ
-cQ
-cQ
-cQ
-cQ
+Pa
 cQ
 cQ
 cQ
@@ -46743,14 +46940,14 @@ Pa
 Pa
 Pa
 Pa
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
-cQ
+Pa
+Pa
+Pa
+Pa
+Pa
+Pa
+Pa
+Pa
 cQ
 cQ
 cQ
@@ -51736,13 +51933,13 @@ oD
 oD
 oD
 oD
+sw
 Pa
 Pa
 Pa
 Pa
-Pa
-oD
-oD
+Fl
+nM
 oD
 oD
 oD
@@ -52093,13 +52290,13 @@ cQ
 cQ
 cQ
 Pa
+Uc
 Pa
 Pa
-Pa
-Pa
-Pa
-cQ
-cQ
+gJ
+KC
+KZ
+xc
 oD
 oD
 oD
@@ -52454,8 +52651,8 @@ Pa
 Pa
 Pa
 Pa
-Pa
-cQ
+li
+ga
 cQ
 cQ
 cQ
